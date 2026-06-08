@@ -62,6 +62,11 @@
 
 ---
 
+<!--
+  GitHub Stats 카드 — 공용 Vercel 인스턴스가 503으로 자주 죽어 일단 비활성화.
+  나중에 본인 Vercel에 github-readme-stats를 직접 배포하면 안정적으로 살릴 수 있음.
+  (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -70,6 +75,7 @@
 </p>
 
 ---
+-->
 
 ## 📫 Contact
 
